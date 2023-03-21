@@ -1,6 +1,6 @@
 # Heater Control Program
 <h2>Description</h2>
-This repository contains code for controlling a heater using a microcontroller. The code is written in C language and is intended to be used with a PIC microcontroller.
+This repository contains code for controlling a heater using a microcontroller. The code is written in C language and is intended to be used with a PIC 16F877 microcontroller.
 <h2>Setup</h2>
 To run this code, you need to have the following components:<br><br>
 
