@@ -1,3 +1,4 @@
+//Emag
 #include "D:\Work T.Pongsak\Microcontroller\Work\Project Jinny\Jinny.h"
 #use delay (clock=8M)
 #include <stdlib.h>
